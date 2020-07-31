@@ -1,0 +1,54 @@
+.container {
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
+
+.dice {
+  display: inline-block;
+  text-align: center;
+}
+
+
+body {
+  background-color: rgb(211, 243, 239);
+}
+
+h1 {
+  color: rgb(17, 107, 98);
+  font-family: 'Courgette', cursive;
+  font-size: 7rem;
+  margin: 25px;
+  text-shadow: 5px 0 rgb(11, 44, 41);
+}
+
+p {
+  color: rgb(17, 107, 98);
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2rem;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+  
+}
+
+footer {
+  color: rgb(17, 107, 98);
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 5%;
+}
+
+button {
+  margin: 0 10px;
+  width: 5rem;
+  height: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  background-color: rgb(165, 180, 178);
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 0.9em;
+  cursor: pointer;
+}
