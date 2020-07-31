@@ -1,1 +1,2 @@
 # fp-phase0
+This website is about showing the power of algorithm. By rolling around at https://parasaraib.github.io/fp-phase0/ you will see a dice powered with an "always win" algorithm. The dice called "algo dice" will never lose to its "your dice" counterpart. At worst, it will give a draw result, but more than 83% of the time it will win! So let's jump into the website and see it by yourself what can an algorithm do and why should you learn algorithm to optimize your code or even more, your life! Enjoy.
